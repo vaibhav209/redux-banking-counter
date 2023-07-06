@@ -18,15 +18,19 @@ This is a simple React application that allows users to view their bank account 
 
 Follow these steps to run the application locally:
 
-1. Clone the repository: git clone [git clone](https://github.com/vaibhav209/redux-banking-counter.git)
+1. Clone the repository:
+- git clone [git clone](https://github.com/vaibhav209/redux-banking-counter.git)
 
-2. Navigate to the project directory: cd redux-banking-counter
+3. Navigate to the project directory:
+- cd redux-banking-counter
 
-3. Install the dependencies: npm install
+5. Install the dependencies:
+- npm install
 
-4. Start the development server: npm start
+7. Start the development server:
+- npm start
 
-5. Open your browser and visit [localhost](http://localhost:3000) to see the app running.0
+9. Open your browser and visit [localhost](http://localhost:3000) to see the app running.
 
 
 ## License
